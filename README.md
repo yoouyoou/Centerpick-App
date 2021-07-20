@@ -3,6 +3,7 @@
 
 ![캡처](https://user-images.githubusercontent.com/81459048/117236085-f8417700-ae62-11eb-9c48-451dc09aa674.PNG)
 ![캡처2](https://user-images.githubusercontent.com/81459048/117236297-64bc7600-ae63-11eb-9505-ccbf24e390fc.PNG)
+![image](https://user-images.githubusercontent.com/81459048/126282963-81d38960-d99d-47d5-9927-cdda5d5e5762.png)
 ![캡처3](https://user-images.githubusercontent.com/81459048/117236309-69812a00-ae63-11eb-96cd-1ada39e5eee7.PNG)
 ![캡처4](https://user-images.githubusercontent.com/81459048/117236319-6c7c1a80-ae63-11eb-9e61-d4f996cdb070.PNG)
 
