@@ -4,7 +4,7 @@
 ![캡처](https://user-images.githubusercontent.com/81459048/117236085-f8417700-ae62-11eb-9c48-451dc09aa674.PNG)
 
 <br/><br/>
-##- subway PART
+# subway PART
 <br/>
 
 ![캡처2](https://user-images.githubusercontent.com/81459048/117236297-64bc7600-ae63-11eb-9505-ccbf24e390fc.PNG)
@@ -19,7 +19,7 @@
 
 
 
-##- map PART
+# map PART
 <br/>
 
 
