@@ -17,8 +17,6 @@
 
 
 
-#![image](https://user-images.githubusercontent.com/81459048/126282963-81d38960-d99d-47d5-9927-cdda5d5e5762.png)
-#![캡처3](https://user-images.githubusercontent.com/81459048/117236309-69812a00-ae63-11eb-96cd-1ada39e5eee7.PNG)
 
 
 - map PART
